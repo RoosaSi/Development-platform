@@ -7,3 +7,4 @@ STM32-based development platform. Includes display, programmable buttons, buzzer
 ### Layout
 [View full layout (PDF)] (Development_platform_layout.pdf)
 
+[Google](https://www.google.com)
